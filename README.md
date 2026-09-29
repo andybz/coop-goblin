@@ -8,6 +8,12 @@ Build an agent I can talk to from my MacBook and, eventually, my phone. It shoul
 
 This is also an experiment in going beyond a general chatbot. I want to discover which custom connections, memory, tools, interfaces, and behaviors make an agent uniquely useful to me. Don't assume every feature needs to be built; help me test ideas and keep what proves valuable.
 
+## Why build it?
+
+ChatGPT is like eating at a great restaurant. You can ask for something special, and the kitchen might make it for you. Coop Goblin is me building a kitchen at home. I can change the stove, swap recipes, see exactly what's in the pantry, and still cook when the restaurant's closed.
+
+The point is ownership and control, not a claim that the home kitchen makes better food.
+
 ## Pieces to explore
 
 - **Local models:** Run and compare models on my 2023 MacBook Pro with an M2 Max and 32 GB of memory.
